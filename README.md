@@ -1,5 +1,5 @@
-## Hi there 👋
-# My name is Emil.
+# Hi there 👋
+## My name is Emil.
 - 🔭 I’m currently working on trying to learn in a safe environment.
 - 🌱 I’m currently learning Nix, C#, HTML and CSS.
 - 👯 I’m looking to collaborate where I can be helpful.
