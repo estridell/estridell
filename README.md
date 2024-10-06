@@ -1,6 +1,5 @@
 # Hi there 👋
 ## My name is Emil.
-- 🔭 I’m currently working on becoming more productive.
 - 🌱 I’m currently learning Nix, C#, HTML and CSS.
 - 👯 I’m looking to collaborate where I can be helpful.
 - 🤔 I’m looking for help with most things Nix related.
