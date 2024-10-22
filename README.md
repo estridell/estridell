@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning Nix, C#, HTML and CSS.
 - 📫 How to reach me: emil.stridell@outlook.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I daily drive NixOS :)
+- ⚡ Fun fact: I daily NixOS
