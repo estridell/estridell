@@ -1,5 +1,3 @@
-# Hi there 👋
-## My name is Emil.
-- I’m currently doing [The Odin Project](https://www.theodinproject.com).
-- How to reach me: emil.stridell@outlook.com
+# I'm Emil
+- Reach me on X: @emilstridell
 - I use arch, btw
