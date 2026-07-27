@@ -1,3 +1,3 @@
 # I'm Emil
-- Reach me on X: @emilstridell
+- Less is more
 - I use arch, btw
